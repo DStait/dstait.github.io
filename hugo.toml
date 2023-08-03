@@ -1,0 +1,4 @@
+baseURL = 'http://dstait.github.io'
+languageCode = 'en-us'
+title = 'DS Wiki'
+theme = 'hugo-book'
