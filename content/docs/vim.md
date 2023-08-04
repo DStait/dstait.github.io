@@ -4,10 +4,16 @@ title: "VIM"
 
 
 ## Misc
-### up to the next character
+### Delete up to the next character
 ```
-di" # To the next "
-di' # To the next '
+dt" # To the next "
+dt' # To the next '
+```
+
+### Delete in character
+```
+di" # Delete everything in the next ""
+di{ # Delete everything in the next {}
 ```
 
 ### Delete without overwriting clipboard
